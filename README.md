@@ -77,9 +77,9 @@ Contributions are welcome! Please open an issue or submit a pull request with an
 
 **License**
 
-This project is licensed under the MIT [License]() - see the LICENSE file for details.
+This project is licensed under the MIT [License](https://utsavvachhani.github.io/PRODIGY_SD_03/LICENSE) - see the LICENSE file for details.
 
-**Vedio:**
+**Vedio:** https://utsavvachhani.github.io/PRODIGY_SD_03/3rd%20task.mp4
 
 
 **Task-output-Pictures :**
