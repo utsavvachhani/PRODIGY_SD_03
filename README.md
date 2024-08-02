@@ -43,7 +43,7 @@ internship task-3 at the Prodigy InfoTech.
 
   1. Clone the Repository:
   ```html
-git clone https://github.com/your-username/contact-management-system.git
+git clone https://github.com/utsavvachhani/contact-management-system.git
 cd contact-management-system
   ```
   2. Run the Application:
